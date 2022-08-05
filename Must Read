@@ -1,0 +1,4 @@
+Open the .rar file attached with this repository. 
+Open the main.c file and check the code. Note USART1 is enabled with Asynchronous mode.  
+Built the program and click the new console option and create new console window with UPT 8. connect the new console using the connect option
+Anything wou want to display using printf( ) function will display in this window.
